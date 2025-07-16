@@ -13,3 +13,25 @@ You can download them from Kaggle or other public sources and place them in the 
 Make sure the files are named exactly:
 - `Fake.csv`
 - `True.csv`
+
+
+## How to Run
+
+1. **Install dependencies**
+
+    Open your terminal or command prompt in the project directory and run:
+
+
+2. **Prepare the data**
+
+    Make sure the following files are in the same folder as `fake_news_detection.py`:
+    - `Fake.csv`
+    - `True.csv`
+
+3. **Run the script**
+
+    Execute the Python script:
+
+4. **Test predictions**
+
+   After running, you will be prompted to enter news text. Type or paste the text and press Enter to see predictions from all models.
